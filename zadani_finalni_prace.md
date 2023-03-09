@@ -13,7 +13,7 @@ pokud chceme platit eura -> zkuseme eurovy status, pokud je zde malo, prejdeme j
 informace o aktualnim kurzu vezmeme od ceske narodni banky
 kurz plati do vydani noveho kurzu
 kurz vychazi  kazdy den, krome soboty a nedele a svatku
-- nutnost stahnout kurzy z saktualniho dne
+- nutnost stahnout kurzy z aktualniho dne
 
 simulace plateb -> tlacitko vygeneruje nahodnou castku a menu
 
@@ -26,7 +26,8 @@ vytvaret a editovat uzivatele rucne, nejspis pomoci admin uctu/editovat raw data
 
 blazor? python django?
 c++ najit nejaky framework :/
-pouzit dsp dokument
+pouzit dsp dokument - 3 stranky
+napsat kolik casu mi to bude zhruba trvat
 
 vyhnout se v databazich id u tabulek
 zadne testovani ui
